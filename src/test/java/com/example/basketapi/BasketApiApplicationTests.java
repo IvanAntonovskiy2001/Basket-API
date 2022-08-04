@@ -1,0 +1,13 @@
+package com.example.basketapi;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class BasketApiApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
